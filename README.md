@@ -1,4 +1,4 @@
-# switch-http-factory
+# latcham-switch-http-factory
 
 A lightweight, retry-enabled HTTP client used in Latcham’s Enfocus Switch scripts and Node-based automations.
 

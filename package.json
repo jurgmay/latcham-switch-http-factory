@@ -1,5 +1,5 @@
 {
-	"name": "switch-http-factory",
+	"name": "latcham-switch-http-factory",
 	"version": "0.0.1",
 	"description": "Reusable HTTP client for Enfocus Switch",
 	"license": "UNLICENSED",
