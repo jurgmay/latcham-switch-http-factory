@@ -15,5 +15,5 @@ A lightweight, retry-enabled HTTP client used in Latcham’s Enfocus Switch scri
 From GitHub:
 
 ```bash
-npm install github:latcham/latcham-http-client
+npm install github:latcham/latcham-switch-http-factory
 ```
